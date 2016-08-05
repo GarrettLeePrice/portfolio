@@ -1,22 +1,49 @@
 
 img {
-border-radius: 8px;
-height: 70%;
-width: 70%;
+border-radius: 2px;
+height: 50%;
+width: 60%;
 display:block;
 margin: auto;
-padding-top: 25px;
+padding-top: 2px;
 }
 
 h1 {
   text-align: center;
   padding-top: 50px;
+  color:yellow;
+
 }
 
 h2 {
   text-align: center;
 }
 
-body{
-  background-color: lightgrey;
+h4 {
+  text-align:center;
+}
+
+body {
+  background-color: lightyellow;
+
+}
+.my-class ul {
+  text-align:center;
+}
+
+.my-class {
+  border: 2px solid green;
+  padding: 0px 0px 60px 0px;
+  margin: 15px;
+  background-image: url(http://www.quickcircuits.com/images/banner.png);
+}
+
+.my-class h1 {
+  font-size: 60px;
+  font-family: sans-serif;
+
+}
+
+.container {
+  border-bottom: 2px solid black;
 }
