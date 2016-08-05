@@ -6,7 +6,7 @@
 
 ## Description
 
-_This website gives details for my coding projects, including which languages were used. The site also details my personal interests and includes a photo of me.
+This website gives details for my coding projects, including which languages were used. The site also details my personal interests and includes a photo of me.
 
 ## Setup/Installation Requirements
 
