@@ -1,12 +1,12 @@
-# _{Garrett Price's Portfolio Site}_
+# _Garrett Price's Portfolio Site_
 
-#### _{Portfolio website for my coding projects}, {8/3/2016}_
+#### _Portfolio website for my coding projects, _8/3/2016_
 
-#### By _**{Garrett Price}**_
+#### By _**Garrett Price**_
 
 ## Description
 
-_{This website gives details for my coding projects, including which languages were used. The site also details my personal interests and includes a photo of me. }_
+_This website gives details for my coding projects, including which languages were used. The site also details my personal interests and includes a photo of me.
 
 ## Setup/Installation Requirements
 
@@ -15,18 +15,18 @@ _{This website gives details for my coding projects, including which languages w
 
 ## Known Bugs
 
-_{No known bugs }_
+_No known bugs_
 
 ## Support and contact details
 
-_{Contact garrettleeprice@gmail.com for support}_
+_Contact garrettleeprice@gmail.com for support_
 
 ## Technologies Used
 
-_{HTML,CSS,Bootstrap}_
+_HTML,CSS,Bootstrap_
 
 ### License
 
-*{MIT}*
+*MIT*
 
-Copyright (c) 2016 **_{Garrett Price}_**
+Copyright (c) 2016 **_Garrett Price_**
