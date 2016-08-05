@@ -4,15 +4,13 @@ img {
   width: 60%;
   display:block;
   margin: auto;
-  padding-top: 2px;
+  border: 2px solid red;
 }
 
 h1 {
   text-align: center;
   padding-top: 50px;
-  color:mintcream;
-
-}
+  }
 
 h2 {
   text-align: center;
@@ -31,16 +29,17 @@ body {
 }
 
 .my-class {
-  border: 2px solid mintcream;
+  border: 2px solid red;
   padding: 0px 0px 60px 0px;
   margin: 15px;
-  background-image: url(http://www.quickcircuits.com/images/banner.png);
+  background-image:url(https://images8.alphacoders.com/403/403441.gif);
 }
 
 .my-class h1 {
   font-size: 60px;
   font-family: sans-serif;
-
+  color: lightgray;
+  text-shadow: 3px 3px slategray;
 }
 
 .container {
@@ -52,6 +51,11 @@ body {
 span {
   font-size: 24px;
   color: red;
+}
+
+ol {
+  list-style-position: inside;
+  text-align: center;
 }
 
 .buttonleft{
