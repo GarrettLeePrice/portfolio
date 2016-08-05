@@ -10,7 +10,7 @@ img {
 h1 {
   text-align: center;
   padding-top: 50px;
-  color:yellow;
+  color:mintcream;
 
 }
 
@@ -23,7 +23,7 @@ h4 {
 }
 
 body {
-  background-color: lightyellow;
+  background-color: gainsboro;
 
 }
 .container ul {
@@ -31,7 +31,7 @@ body {
 }
 
 .my-class {
-  border: 2px solid green;
+  border: 2px solid mintcream;
   padding: 0px 0px 60px 0px;
   margin: 15px;
   background-image: url(http://www.quickcircuits.com/images/banner.png);
@@ -44,7 +44,8 @@ body {
 }
 
 .container {
-  border-bottom: 2px solid black;
+  padding-bottom: 25px;
+  border-bottom: 2px solid red;
   border-width: thin;
 }
 
@@ -53,8 +54,12 @@ span {
   color: red;
 }
 
-.footer{
+.buttonleft{
   padding: 25px;
-  position:relative;
-  text-align: center;
+  float: left;
+}
+
+.buttonright{
+  padding: 25px;
+  float:right;
 }
